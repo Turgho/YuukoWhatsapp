@@ -1,4 +1,4 @@
-# 🌊 BarraTour — Agendamento de Turismo em Barra Bonita
+# 🤖 Yuuko — WhatsApp Bot em Go
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-red)](https://github.com/Turgho/YuukoWhatsapp)
 [![Linguagem](https://img.shields.io/badge/Linguagem-Go-blue)](https://go.dev/doc/)
