@@ -12,7 +12,7 @@ import (
 	"go.mau.fi/whatsmeow"
 	"go.mau.fi/whatsmeow/store/sqlstore"
 
-	qrterminal "github.com/mdp/qrterminal/v3"
+	qrterminal "github.com/mdp/qrterminal/v3" // QR Code
 )
 
 type Client struct {
